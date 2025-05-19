@@ -48,10 +48,12 @@ The file is created when you run the program.
 - Color and background settings persist between sessions.
 
 ---
-![nomi_2](https://github.com/user-attachments/assets/f8f8e7f7-c405-43ef-9fa7-daff48e22dc3)
-![nomi_3](https://github.com/user-attachments/assets/64525a7f-5c92-4068-9c59-0a10a3cd3ed8)
-![nomi_4](https://github.com/user-attachments/assets/9cf89707-6a4f-4131-9ae6-f33af6faca8c)
-![nomi_5](https://github.com/user-attachments/assets/c56f60d0-cec0-4295-91b3-4fe7df0f12f1)
-![nomi_6](https://github.com/user-attachments/assets/6abf3efc-8e3c-4252-bed6-c85211c9069b)
-![nomi_7](https://github.com/user-attachments/assets/691e4263-8b88-41d7-adee-4b817530c68c)
-![nomi_8](https://github.com/user-attachments/assets/980cbbc5-9c59-455b-bc39-486978f2338c)
+![nomi_2](https://github.com/user-attachments/assets/a3cc44cd-7531-43bf-9bfb-667953512a02)
+![nomi_3](https://github.com/user-attachments/assets/59136ebe-8de7-41b3-97ed-d0413384bf79)
+![nomi_4](https://github.com/user-attachments/assets/6d43b3cf-7ec1-4b8a-be14-652b2388bc80)
+![nomi_5](https://github.com/user-attachments/assets/6b78bc09-2d3e-48fb-b037-a853dc16efe5)
+![nomi_6](https://github.com/user-attachments/assets/d8f80f1f-34e9-439d-9cbd-d5e63e917f69)
+![nomi_7](https://github.com/user-attachments/assets/adc63301-7af1-4d63-ac1d-0eed925e033d)
+![nomi_8](https://github.com/user-attachments/assets/7490d047-bd93-4233-866e-f65ccd908831)
+
+
